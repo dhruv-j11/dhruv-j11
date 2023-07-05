@@ -2,4 +2,4 @@ dhruv joshi
 
 grade 11 Ib student
 
-beginner gang
+beginner coder just learning to do stuff :)
