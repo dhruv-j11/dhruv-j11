@@ -1,4 +1,4 @@
 dhruv joshi
 
-grade 12 Ib student
+uwaterloo math. this is gonna be fire soon.
 
