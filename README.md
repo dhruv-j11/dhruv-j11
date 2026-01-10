@@ -1,7 +1,8 @@
->> dhruv joshi
+### dhruv joshi
 
 honours Math @ University of Waterloo
-i like to turn creative ideas into reality. 
+
+i like to turn creative ideas into reality. need coop for summer 2026.
 
 specifically interested in applied AI, LLMs, and programming with hardware.
 
