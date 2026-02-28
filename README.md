@@ -2,7 +2,7 @@
 
 honours Math @ University of Waterloo
 
-i like to turn creative ideas into reality. need coop for summer 2026.
+i like to turn creative ideas into reality. currently seeking a summer coop!
 
 specifically interested in applied AI, LLMs, and programming with hardware.
 
