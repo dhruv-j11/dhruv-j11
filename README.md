@@ -18,14 +18,6 @@ Git · Vercel · GCP · A/B Testing · Statistical Modeling
 
 ---
 
-### What I've Built / Am Building
-
-- **Options MCP Agent** — 29-tool analytics system turning NLP queries into structured financial analysis built into Claude.
-- **CityLens** - AI Geomodeling agent designed to optimize deveopment decisions.
-- **AIDE Services** - Healthcare triage system for clinics/hospitals to reduce patient management irresponsibility.
-
----
-
 ### Highlights
 
 - ML research at UWaterloo — LLM RAG systems, hybrid search over 50M-document corpora.
@@ -41,17 +33,6 @@ Git · Vercel · GCP · A/B Testing · Statistical Modeling
 - Always down to build — open to hackathon teams, collabs, and side projects
 
 ---
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-j11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-j11&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/dhruvjjoshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
