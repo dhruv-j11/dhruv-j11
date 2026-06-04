@@ -1,4 +1,4 @@
-# Hey, I'm Dhruv 👋
+# Hey, I'm Dhruv
 
 **Computational Mathematics @ University of Waterloo**
 
