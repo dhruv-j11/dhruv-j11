@@ -20,8 +20,8 @@ Git · Vercel · GCP · A/B Testing · Statistical Modeling
 
 ### Highlights
 
-- ML research at UWaterloo — LLM RAG systems, hybrid search over 50M-document corpora.
-- CTO @ The Student Water Project — directing tech infra, automations, and ops for an NGO.
+- ML research at UWaterloo
+- CTO @ The Student Water Project — directing tech infra, automations, and research team for an NGO.
 - Over $3k won at Hackathons.
 
 ---
