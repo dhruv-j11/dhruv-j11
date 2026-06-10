@@ -6,14 +6,14 @@ I built full-stack platforms, data systems, and AI/ML products.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ```
-Python · TypeScript · SQL · Golang · React · Next.js · Flask
+Python · JAX · CUDA/C · TypeScript · SQL · React · Next.js
 PostgreSQL · MongoDB · Firebase · LangChain · ChromaDB
 Machine Learning · RAG Pipelines · Computer Vision · MCP Tools · Agentic AI
 LLMs (Claude API, OpenAI, Gemini) · ElevenLabs · yfinance
-Git · Vercel · GCP · A/B Testing · Statistical Modeling
+Git · Vercel · GCP · NLP · A/B Testing · Statistical Modeling
 ```
 
 ---
