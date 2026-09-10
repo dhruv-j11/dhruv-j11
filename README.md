@@ -1,42 +1,59 @@
 # Hey, I'm Dhruv
 
-**Computational Mathematics @ University of Waterloo**
+### Computational Mathematics @ University of Waterloo
 
-I built full-stack platforms, data systems, and AI/ML products.
+I build **AI/ML systems, full-stack products, and data-driven tools**.
 
----
-
-### Tech Stack
-
-```
-Python · JAX · CUDA/C · TypeScript · SQL · React · Next.js
-PostgreSQL · MongoDB · Firebase · LangChain · ChromaDB
-Machine Learning · RAG Pipelines · Computer Vision · MCP Tools · Agentic AI
-LLMs (Claude API, OpenAI, Gemini) · ElevenLabs · yfinance
-Git · Vercel · GCP · NLP · A/B Testing · Statistical Modeling
-```
-
----
-
-### Highlights
-
-- ML research at UWaterloo
-- CTO @ The Student Water Project — directing tech infra, automations, and research team for an NGO.
-- Over $3k won at Hackathons.
-
----
-
-### Goals
-
-- Actively seeking opportunities in AI/ML, software engineering, or product roles
-- Exploring how LLMs and agentic systems ship inside real products
-- Always down to build — open to hackathon teams, collabs, and side projects
-
----
+Currently working across machine learning and startups. Particular interest in **Applied AI, ML, and agentic systems.**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhruvjjoshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhruv.joshi@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dhruvjjoshi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/dhruv-j11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dhruvjjoshi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dhruvjjoshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhruv.joshi@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## My Stack
+
+**Languages & Engineering**
+
+`Python` `C++` `JAX` `CUDA/C` `TypeScript` `SQL` `JavaScript` `Linux` `Git`
+
+**AI / ML**
+
+`PyTorch` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `LLMs` `RAG` `Agentic AI` `MCP`
+
+**Data & Infrastructure**
+
+`PostgreSQL` `MongoDB` `Firebase` `AWS` `GCP` `Vector Search` `REST APIs` `Statistical Modeling`
+
+**Frameworks & Tools**
+
+`React` `Next.js` `LangChain` `ChromaDB` `Claude API` `OpenAI API` `Gemini` `Vercel`
+
+---
+
+## I'm Currently Exploring
+
+* Efficient **LLM training**
+* **JAX / XLA** systems
+* Adaptive retrieval
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-j11&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-j11&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruv-j11&style=flat-square&color=grey" />
 </p>
