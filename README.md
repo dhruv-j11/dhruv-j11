@@ -20,7 +20,7 @@ Currently working across machine learning and startups. Particular interest in *
 
 ---
 
-## My Stack
+### My Stack
 
 **Languages & Engineering**
 
@@ -40,7 +40,7 @@ Currently working across machine learning and startups. Particular interest in *
 
 ---
 
-## I'm Currently Exploring
+### I'm Currently Exploring
 
 * Efficient **LLM training**
 * **JAX / XLA** systems
