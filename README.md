@@ -50,10 +50,5 @@ Currently working across machine learning and startups. Particular interest in *
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-j11&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-j11&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-j11&style=flat-square&color=grey" />
 </p>
