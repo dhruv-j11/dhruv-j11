@@ -7,10 +7,6 @@ I build **AI/ML systems, full-stack products, and data-driven tools**.
 Currently working across machine learning and startups. Particular interest in **Applied AI, ML, and agentic systems.**.
 
 
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
-
-
 <p align="center">
   <a href="https://dhruvjjoshi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -24,6 +20,13 @@ Currently working across machine learning and startups. Particular interest in *
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
+
 
 ### My Stack
 
