@@ -2,9 +2,7 @@
 
 ### Computational Mathematics @ University of Waterloo
 
-I build **AI/ML systems, full-stack products, and data-driven tools**.
-
-Currently working across machine learning and startups. Particular interest in **Applied AI, ML, and agentic systems.**.
+I'm a builder. Currently exploring ml, applied ai, and agentic systems. 
 
 
 <p align="center">
@@ -19,36 +17,18 @@ Currently working across machine learning and startups. Particular interest in *
   </a>
 </p>
 
----
 
+<br>
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 
+<br>
 
-### My Stack
 
-**Languages & Engineering**
-
-`Python` `C++` `JAX` `CUDA/C` `TypeScript` `SQL` `JavaScript` `Linux` `Git`
-
-**AI / ML**
-
-`PyTorch` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `LLMs` `RAG` `Agentic AI` `MCP`
-
-**Data & Infrastructure**
-
-`PostgreSQL` `MongoDB` `Firebase` `AWS` `GCP` `Vector Search` `REST APIs` `Statistical Modeling`
-
-**Frameworks & Tools**
-
-`React` `Next.js` `LangChain` `ChromaDB` `Claude API` `OpenAI API` `Gemini` `Vercel`
-
----
-
-### I'm Currently Exploring
+### Interested in...
 
 * Efficient **LLM training**
 * **JAX / XLA** systems
