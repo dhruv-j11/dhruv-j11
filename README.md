@@ -1,12 +1,14 @@
 # Hey, I'm Dhruv
 
+<br>
+
 ### Mathematics @ University of Waterloo
 
 <br>
 
 I'm a builder. Currently exploring ml, applied ai, and agentic systems. 
 
-<br>
+
 <br>
 
 <p align="center">
@@ -39,7 +41,7 @@ I'm a builder. Currently exploring ml, applied ai, and agentic systems.
 * **JAX / XLA** systems
 * Adaptive retrieval
 
----
+<br>
 
 
 <p align="center">
