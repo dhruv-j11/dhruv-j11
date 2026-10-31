@@ -1,20 +1,11 @@
 # Hey, I'm Dhruv
 
-<br>
+
 
 ### Mathematics @ University of Waterloo
 
-<br>
 
-I'm a builder. Currently exploring ml, applied ai, and agentic systems. 
-
-
-<br>
-<br>
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
+I'm a generalist, and a builder. Currently exploring ml, applied ai, and agentic systems. 
 
 
 <br>
@@ -22,18 +13,20 @@ I'm a builder. Currently exploring ml, applied ai, and agentic systems.
 
 ### Interested in...
 
-* Efficient **LLM training**
-* **JAX / XLA** systems
 * Adaptive retrieval
+* Any open roles in tech!
+
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 <br>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-j11&style=flat-square&color=grey" />
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://dhruvjjoshi.vercel.app">
