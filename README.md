@@ -1,9 +1,13 @@
 # Hey, I'm Dhruv
 
-### Computational Mathematics @ University of Waterloo
+### Mathematics @ University of Waterloo
+
+<br>
 
 I'm a builder. Currently exploring ml, applied ai, and agentic systems. 
 
+<br>
+<br>
 
 <p align="center">
   <a href="https://dhruvjjoshi.vercel.app">
@@ -18,6 +22,7 @@ I'm a builder. Currently exploring ml, applied ai, and agentic systems.
 </p>
 
 
+<br>
 <br>
 
 <p align="center">
