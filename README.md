@@ -2,7 +2,7 @@
 
 
 
-### Mathematics @ University of Waterloo
+### Incoming Analyst @ BMO, Computational Mathematics @ University of Waterloo
 
 
 I'm a generalist, and a builder. Currently exploring ml, applied ai, and agentic systems. 
@@ -14,7 +14,7 @@ I'm a generalist, and a builder. Currently exploring ml, applied ai, and agentic
 ### Interested in...
 
 * Adaptive retrieval
-* Any open roles in tech!
+* Any open roles in finance & tech!
 
 
 <p align="center">
